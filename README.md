@@ -19,7 +19,6 @@
 - [Development](#development)
 - [Contributing](#contributing)
 - [Contact](#contact)
-- [License](#license)
 
 ## About
 Created Backbenchers, an innovative e-learning platform for college students, revolutionizing the way they access educational resources. This platform implements seamless registration, login, and feedback submission features, enhancing user experience and engagement. With a responsive UI and a comprehensive range of subjects and modules tailored to branch and semester, Backbenchers offers detailed notes and engaging video lectures to deliver 90% of the curriculum.
